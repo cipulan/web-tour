@@ -29,7 +29,7 @@ team:
   enable: true
   title : "My Team"
   team_member:
-    - title : "Jack Schenziwe"
+    - title : "Pak Dendi"
       image : "images/team/member-1.png"
       designation : "Project Manager"
       
@@ -49,8 +49,10 @@ clients_logo_slider:
   # clients logo comes from 'params.toml' file
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Selamat Datang di Jogja Tour!
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Mitra perjalanan Anda untuk menjelajahi keajaiban Yogyakarta. Kami berdedikasi untuk membawa Anda pada perjalanan tak terlupakan melalui destinasi magis Indonesia. Dari keindahan alam yang menakjubkan hingga warisan budaya yang kaya, kami menghadirkan pengalaman yang akan melampaui harapan Anda.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Jogja Tour hadir untuk mengubah liburan Anda menjadi cerita epik. Bersama kami, Anda akan mengarungi keindahan alam, merasakan pesona sejarah, dan menciptakan kenangan yang akan dikenang sepanjang hayat. Jangan ragu untuk menghubungi kami untuk informasi lebih lanjut atau memulai perjalanan Anda sekarang!
+
+Jadikan Yogyakarta Destinasi Anda, dan Jadikan Jogja Tour Teman Perjalanan Anda.
