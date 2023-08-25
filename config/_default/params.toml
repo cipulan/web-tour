@@ -9,7 +9,7 @@ logo_width = ""
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Kross"
+logo_text = "Jogja Tour"
 
 # purgeCSS
 purge_css = true

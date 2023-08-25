@@ -12,8 +12,8 @@ name = "Blog"
 weight = 2
 
 [[main]]
-URL = "portfolio/"
-name = "Portfolio"
+URL = "wisata/"
+name = "Paket Wisata"
 weight = 3
 
 [[main]]
