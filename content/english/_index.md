@@ -1,12 +1,12 @@
 ---
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Petualangan <br> Tak Terlupakan <br> di Yogyakarta"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Selamat datang di Jogja Tour, mitra perjalanan Anda untuk menjelajahi keajaiban Yogyakarta. Kami berdedikasi untuk membawa Anda pada perjalanan tak terlupakan melalui destinasi magis Indonesia. Dari keindahan alam yang menakjubkan hingga warisan budaya yang kaya, kami menghadirkan pengalaman yang akan melampaui harapan Anda."
   button:
     enable : true
     label : "know more"
@@ -77,19 +77,19 @@ education:
 # service
 service:
   enable : true
-  title : "Services"
+  title : "Layanan"
   item:
-    - title : "UI Design"
+    - title : "Sewa Mobil"
       icon : "ti-palette"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : false
 
-    - title : "UX Design"
+    - title : "Paket Wisata"
       icon : "ti-vector"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : true
 
-    - title : "Interaction Design"
+    - title : "Travel"
       icon : "ti-panel"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : false
